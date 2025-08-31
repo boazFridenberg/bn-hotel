@@ -6,7 +6,7 @@ export default function Home() {
     <Box>
       <Box sx={{
         position: "relative",
-        backgroundImage: "url(https://images.unsplash.com/photo-1501117716987-c8e1ecb2101f?q=80&w=2400&auto=format&fit=crop)",
+        backgroundImage: "url(https://cf.bstatic.com/xdata/images/hotel/max1024x768/96598396.jpg?k=3f11192160711d51b0ba71cab54f4fe5f50d71ec8c69ff023fe314ca1020ad3c&o=&auto=format&fit=crop&w=1600&q=80)",
         backgroundSize: "cover",
         backgroundPosition: "center",
         minHeight: { xs: 520, md: 640 },
